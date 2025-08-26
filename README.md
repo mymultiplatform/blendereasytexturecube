@@ -1,2 +1,2 @@
 # blendereasytexturecube
-blende reasy texture cube
+blender reasy texture cube
